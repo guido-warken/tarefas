@@ -1,0 +1,14 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "projeto para revisar javascript no senai",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "author": "Guido Filho",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
